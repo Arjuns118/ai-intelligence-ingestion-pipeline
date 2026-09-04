@@ -1,0 +1,36 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "LinkedIn Jobs",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=artificial%20intelligence"
+    },
+    "content": {
+      "company": null,
+      "date": "2026-09-03T21:40:21.067261+00:00",
+      "is_remote": null,
+      "role_family": "OTHER",
+      "title": "Millennium Software and Staffing Inc",
+      "job_url": "https://www.linkedin.com/company/millennium-software-inc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+    },
+    "collectedAt": "2026-09-04T09:40:21.067393+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "LinkedIn Jobs",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=artificial%20intelligence"
+    },
+    "content": {
+      "company": null,
+      "date": "2026-09-03T23:40:21.083133+00:00",
+      "is_remote": null,
+      "role_family": "OTHER",
+      "title": "Carnival Corporation",
+      "job_url": "https://www.linkedin.com/company/carnival-corporation?trk=public_jobs_jserp-result_job-search-card-subtitle"
+    },
+    "collectedAt": "2026-09-04T09:40:21.083152+00:00"
+  }
+]

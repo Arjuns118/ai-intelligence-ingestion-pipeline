@@ -1,0 +1,119 @@
+[
+  {
+    "rawEntityName": "Reality Defender",
+    "canonicalEntityName": "Reality Defender",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Crusoe",
+    "canonicalEntityName": "Crusoe",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Oura",
+    "canonicalEntityName": "Oura",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Tesla Cybercab fleet interest form",
+    "canonicalEntityName": "Tesla Cybercab fleet interest form",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Startup ARR is less secure than ever, new research shows",
+    "canonicalEntityName": "Startup ARR is less secure than ever, new research shows",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Cybercab",
+    "canonicalEntityName": "Cybercab",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Thinking Machines",
+    "canonicalEntityName": "Thinking Machines",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": "Realta Fusion",
+    "canonicalEntityName": "Realta Fusion",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": null,
+    "canonicalEntityName": null,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": null,
+    "canonicalEntityName": null,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": null,
+    "canonicalEntityName": null,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": null,
+    "canonicalEntityName": null,
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
+    },
+    "recordType": "NEWS"
+  },
+  {
+    "rawEntityName": null,
+    "canonicalEntityName": null,
+    "source": {
+      "name": "Google Research",
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/"
+    },
+    "recordType": "NEWS"
+  }
+]

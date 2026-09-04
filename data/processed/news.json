@@ -1,0 +1,288 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+    },
+    "content": {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "entityName": "Reality Defender",
+      "description": "a startup selling AI-detection and content-verification tools",
+      "company": "Reality Defender",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "category": "AI detection",
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:01:12.355350+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    "content": {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "entityName": "Crusoe",
+      "description": "Data center developer",
+      "company": "Crusoe",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "category": "TechCrunch In Brief",
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "September 3, 2026",
+      "isRemote": null,
+      "roleFamily": "null"
+    },
+    "collectedAt": "2026-09-04T17:01:26.726900+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
+    },
+    "content": {
+      "title": "Oura files to go public",
+      "entityName": "Oura",
+      "description": "smart ring maker",
+      "company": "Oura",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "category": "Biotech & Health",
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03",
+      "isRemote": null,
+      "roleFamily": "null"
+    },
+    "collectedAt": "2026-09-04T17:01:30.896178+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
+    },
+    "content": {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "entityName": "Tesla Cybercab fleet interest form",
+      "description": "Tesla is asking businesses to buy or operate Cybercab fleets",
+      "company": "Tesla",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03",
+      "isRemote": null,
+      "roleFamily": "null"
+    },
+    "collectedAt": "2026-09-04T17:01:35.034394+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
+    },
+    "content": {
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "entityName": "Startup ARR is less secure than ever, new research shows",
+      "description": null,
+      "company": null,
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:01:39.625595+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
+    },
+    "content": {
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "entityName": "Cybercab",
+      "description": "Tesla’s autonomous two‑seater robotaxi",
+      "company": "Tesla",
+      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "category": "Transportation",
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "September 3, 2026",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:01:44.494670+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+    },
+    "content": {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "entityName": "Thinking Machines",
+      "description": "AI lab founded by former OpenAI CTO Mira Murati, seeking $1B round at $40B valuation",
+      "company": "Thinking Machines",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "category": "TechCrunch In Brief",
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "September 3, 2026",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:01:56.974816+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"
+    },
+    "content": {
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "entityName": "Realta Fusion",
+      "description": "Fusion startup Realta Fusion announced a deal with Madison Gas and Electric to build one of the first grid-connected fusion power plants in Wisconsin.",
+      "company": "Realta Fusion",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:02:05.439450+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+    },
+    "content": {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "entityName": null,
+      "description": null,
+      "company": null,
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03T18:37:57+00:00",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:02:16.920019+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    "content": {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "entityName": null,
+      "description": null,
+      "company": null,
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03T18:19:56+00:00",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:02:20.202068+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+    },
+    "content": {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "entityName": null,
+      "description": null,
+      "company": null,
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03T18:01:45+00:00",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:02:23.557866+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
+    },
+    "content": {
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "entityName": null,
+      "description": null,
+      "company": null,
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03T17:00:00+00:00",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:02:26.915270+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "NEWS",
+    "source": {
+      "name": "Google Research",
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/"
+    },
+    "content": {
+      "title": "Transfer learning for genomic prediction in underrepresented populations",
+      "entityName": null,
+      "description": null,
+      "company": null,
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "category": null,
+      "pricingModel": null,
+      "employeeCount": null,
+      "publishedDate": "2026-09-03T18:20:31+00:00",
+      "isRemote": null,
+      "roleFamily": null
+    },
+    "collectedAt": "2026-09-04T17:02:30.460105+00:00"
+  }
+]
