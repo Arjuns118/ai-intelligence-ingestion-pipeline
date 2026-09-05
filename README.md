@@ -1,4 +1,4 @@
-# AI Intelligence Ingestion Pipeline
+# 🎯 AI Intelligence Ingestion Pipeline
 
 An end-to-end AI intelligence pipeline built to collect, process, enrich, and organize information from multiple AI-focused sources.
 
