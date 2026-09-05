@@ -1,8 +1,8 @@
-# AI Engineer Demo — AI Intelligence Ingestion Pipeline
+AI Intelligence Ingestion Pipeline
 
 An end-to-end AI intelligence pipeline built to collect, process, enrich, and organize information from multiple AI-focused sources.
 
-The project focuses on **reliable data collection, asynchronous processing, freshness checks, LLM-based extraction, entity resolution, and scalable architecture**.
+The pipeline focuses on reliable data collection, asynchronous processing, freshness checks, LLM-based extraction, entity resolution, and scalable architecture.
 
 ## 📊 Dataset Coverage
 
@@ -10,11 +10,11 @@ The current pipeline produces:
 
 | Dataset | Records |
 |---|---:|
-| Startups | 1,721 |
+| Startups | 1,730 |
 | Products | 1,198 |
 | Research Papers | 1,000 |
-| Fresh News | 13 |
-| Fresh Jobs | 49 |
+| Fresh News | 25 |
+| Fresh Jobs | 88 |
 
 The final datasets pass schema validation with **0 schema errors**.
 
